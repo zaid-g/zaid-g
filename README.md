@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Zaid (pronounced Zayd)
-- 👀 My main interests are in machine learning (especially RL, multi-armed bandits, and interactive learning) and economics
-- 🌱 I’m currently learning about many things, including reinforcement learning, blockchain, and simulated economies
-- 💞️ I’m looking to collaborate on impactful projects matching one or more of my interests
-- 🔗 https://zaid-g.github.io/
+- 🌱 My main interests are in machine learning (especially RL, LLM's, multi-armed bandits) and economics
+- 👀 I’m looking to collaborate on impactful projects matching one or more of my interests
 - 📫 zaidg at uw dot edu
 
 <!---
